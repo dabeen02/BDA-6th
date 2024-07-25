@@ -1,1 +1,1 @@
-# BDA-6th---Python-Project
+# BDA 6th Python Application Class Projects
